@@ -1,0 +1,153 @@
+# XBMC torrent language file
+# Addon Name: XBMCtorrent
+# Addon id: plugin.video.xbmctorrent
+# Addon Provider: steeve
+msgid ""
+msgstr ""
+"Project-Id-Version: XBMC torrent\n"
+"Report-Msgid-Bugs-To: steeve\n"
+"POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: nek\n"
+"Language-Team: English\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+# Settings
+
+msgctxt "#30000"
+msgid "XBMCtorrent"
+msgstr ""
+
+msgctxt "#30001"
+msgid "General"
+msgstr ""
+
+msgctxt "#30002"
+msgid "Download"
+msgstr ""
+
+msgctxt "#30003"
+msgid "Download Path"
+msgstr ""
+
+msgctxt "#30004"
+msgid "Keep files after playback/download stops"
+msgstr ""
+
+msgctxt "#30005"
+msgid "Auto-unblock websites (via Immunicity)"
+msgstr ""
+
+msgctxt "#30006"
+msgid "XBMC Library Integration"
+msgstr ""
+
+msgctxt "#30007"
+msgid "Install"
+msgstr ""
+
+msgctxt "#30008"
+msgid "Uninstall"
+msgstr ""
+
+msgctxt "#30009"
+msgid "BitTorrent"
+msgstr ""
+
+msgctxt "#30010"
+msgid "BitTorrent Options"
+msgstr ""
+
+msgctxt "#30011"
+msgid "Magnet Booster"
+msgstr ""
+
+msgctxt "#30012"
+msgid "Max Upload Rate (kB/s)"
+msgstr ""
+
+msgctxt "#30013"
+msgid "Max Download Rate (kB/s)"
+msgstr ""
+
+msgctxt "#30014"
+msgid "Encryption"
+msgstr ""
+
+msgctxt "#30015"
+msgid "Advanced"
+msgstr ""
+
+msgctxt "#30016"
+msgid "Pornographic Content"
+msgstr ""
+
+msgctxt "#30017"
+msgid "Enable"
+msgstr ""
+
+msgctxt "#30018"
+msgid "Maintenance"
+msgstr ""
+
+msgctxt "#30019"
+msgid "Clear cache"
+msgstr ""
+
+msgctxt "#30020"
+msgid "Custom domains"
+msgstr ""
+
+msgctxt "#30021"
+msgid "Google Analytics"
+msgstr ""
+
+msgctxt "#30022"
+msgid "Disable (except for index)"
+msgstr ""
+
+msgctxt "#30023"
+msgid "XBMC Android"
+msgstr ""
+
+msgctxt "#30024"
+msgid "Custom Android Application ID"
+msgstr ""
+
+# Context messages
+
+msgctxt "#30100"
+msgid "Queued"
+msgstr ""
+
+msgctxt "#30101"
+msgid "Checking"
+msgstr ""
+
+msgctxt "#30102"
+msgid "Downloading metadata"
+msgstr ""
+
+msgctxt "#30103"
+msgid "Downloading"
+msgstr ""
+
+msgctxt "#30104"
+msgid "Finished"
+msgstr ""
+
+msgctxt "#30105"
+msgid "Seeding"
+msgstr ""
+
+msgctxt "#30106"
+msgid "Allocating"
+msgstr ""
+
+msgctxt "#30107"
+msgid "Allocating file & Checking resume"
+msgstr ""

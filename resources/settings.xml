@@ -1,44 +1,44 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <settings>
-    <category label="General">
-        <setting label="Download" type="lsep" />
-        <setting id="dlpath" type="folder" label="Download Path" source="auto" option="writeable" />
-        <setting id="keep_files" type="bool" label="Keep files after playback/download stops" default="false" />
+    <category label="30001">
+        <setting label="30002" type="lsep" />
+        <setting id="dlpath" type="folder" label="30003" source="auto" option="writeable" />
+        <setting id="keep_files" type="bool" label="30004" default="false" />
 
-        <setting label="Auto-unblock websites (via Immunicity)" type="lsep"/>
-        <setting id="immunicity" type="bool" label="Enable" default="false" />
+        <setting label="30005" type="lsep"/>
+        <setting id="immunicity" type="bool" label="30017" default="false" />
 
-        <setting label="XBMC Library Integration" type="lsep"/>
-        <setting type="action" label="Install" action="RunPlugin(plugin://plugin.video.xbmctorrent/library/install)" />
-        <setting type="action" label="Uninstall" action="RunPlugin(plugin://plugin.video.xbmctorrent/library/uninstall)" />
+        <setting label="30006" type="lsep"/>
+        <setting type="action" label="30007" action="RunPlugin(plugin://plugin.video.xbmctorrent/library/install)" />
+        <setting type="action" label="30008" action="RunPlugin(plugin://plugin.video.xbmctorrent/library/uninstall)" />
     </category>
-    <category label="BitTorrent">
-        <setting label="BitTorrent Options" type="lsep"/>
-        <setting id="magnet_boost" label="Magnet Booster" type="bool" default="true" />
-        <setting id="max_upload_rate" label="Max Upload Rate (kB/s)" type="number" default="" />
-        <setting id="max_download_rate" label="Max Download Rate (kB/s)" type="number" default="" />
-        <setting id="encryption" label="Encryption" type="enum" values="Forced|Enabled|Disabled" default="1" />
+    <category label="30009">
+        <setting label="30010" type="lsep"/>
+        <setting id="magnet_boost" label="30011" type="bool" default="true" />
+        <setting id="max_upload_rate" label="30012" type="number" default="" />
+        <setting id="max_download_rate" label="30013" type="number" default="" />
+        <setting id="encryption" label="30014" type="enum" values="Forced|Enabled|Disabled" default="1" />
     </category>
-    <category label="Advanced">
-        <setting label="Pornographic Content" type="lsep"/>
-        <setting id="porn" type="bool" label="Enable" default="true" />
+    <category label="30015">
+        <setting label="30016" type="lsep"/>
+        <setting id="porn" type="bool" label="30017" default="true" />
 
-        <setting label="Maintenance" type="lsep"/>
-        <setting type="action" label="Clear cache" action="RunPlugin(plugin://plugin.video.xbmctorrent/cmd/clear_cache)" />
+        <setting label="30018" type="lsep"/>
+        <setting type="action" label="30019" action="RunPlugin(plugin://plugin.video.xbmctorrent/cmd/clear_cache)" />
 
-        <setting label="Custom domains" type="lsep"/>
+        <setting label="30020" type="lsep"/>
         <setting id="base_eztv" type="text" label="EZTV" default="http://eztv.it" />
         <setting id="base_yify" type="text" label="YIFY Torrents" default="http://yts.re" />
         <setting id="base_kickass" type="text" label="Kickass Torrents" default="http://kickass.to" />
         <setting id="base_tpb" type="text" label="The Pirate Bay" default="http://thepiratebay.org" />
         <setting id="base_nyaa" type="text" label="NyaaTorrents" default="http://www.nyaa.se" />
-        <setting id="base_bitsnoop" type="text" label="NyaaTorrents" default="http://bitsnoop.com" />
+        <setting id="base_bitsnoop" type="text" label="BitSnoop" default="http://bitsnoop.com" />
 
 
-        <setting label="Google Analytics" type="lsep"/>
-        <setting id="ga_disable" type="bool" label="Disable (except for index)" default="false" />
+        <setting label="30021" type="lsep"/>
+        <setting id="ga_disable" type="bool" label="30022" default="false" />
 
-        <setting label="XBMC Android" type="lsep"/>
-        <setting id="android_app_id" type="text" label="Custom Android Application ID" default="org.xbmc.xbmc" />
+        <setting label="30023" type="lsep"/>
+        <setting id="android_app_id" type="text" label="30024" default="org.xbmc.xbmc" />
     </category>
 </settings>

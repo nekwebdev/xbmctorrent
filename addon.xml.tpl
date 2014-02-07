@@ -18,10 +18,17 @@
         <source><![CDATA[https://github.com/steeve/xbmctorrent]]></source>
         <language></language>
         <license><![CDATA[GNU GENERAL PUBLIC LICENSE. Version 3, 29 June 2007]]></license>
-        <summary><![CDATA[XBMCtorrent: Torrent streaming for XBMC.]]></summary>
-        <description><![CDATA[Watch torrents directly from XBMC, without waiting.
+        <summary lang="en"><![CDATA[XBMCtorrent: Torrent streaming for XBMC.]]></summary>
+        <summary lang="fr"><![CDATA[XBMCtorrent: Torrent streaming pour XBMC.]]></summary>
+        <description lang="en"><![CDATA[Watch torrents directly from XBMC, without waiting.
 
 To get the latest updates:
+Twitter: twitter.com/xbmctorrent
+Facebook: facebook.com/xbmctorrent
+XBMC HUB: j.mp/xbmctorrent]]></description>
+        <description lang="fr"><![CDATA[Regardez des torrents directement depuis XBMC, sans attente.
+
+Pour avoir les dernières mises à jour:
 Twitter: twitter.com/xbmctorrent
 Facebook: facebook.com/xbmctorrent
 XBMC HUB: j.mp/xbmctorrent]]></description>
