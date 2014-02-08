@@ -151,3 +151,13 @@ msgstr ""
 msgctxt "#30107"
 msgid "Allocating file & Checking resume"
 msgstr ""
+
+# Error messages
+
+msgctxt "#30200"
+msgid "Downloading to an unmounted network share is not supported. Resetting."
+msgstr ""
+
+msgctxt "#30201"
+msgid "Downloading to FAT32 is not supported. Resetting."
+msgstr ""

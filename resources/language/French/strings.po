@@ -151,3 +151,13 @@ msgstr "Allocation"
 msgctxt "#30107"
 msgid "Allocating file & Checking resume"
 msgstr "Allocation du fichier & reprise de la lecture"
+
+# Error messages
+
+msgctxt "#30200"
+msgid "Downloading to an unmounted network share is not supported. Resetting."
+msgstr "Le téléchargement sur un disque réseau non monté n'est pas possible. Utilisation de la racine."
+
+msgctxt "#30201"
+msgid "Downloading to FAT32 is not supported. Resetting."
+msgstr "Le téléchargement vers un disque en FAT32 n'est pas possible. Utilisation de la racine."
